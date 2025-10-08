@@ -74,4 +74,9 @@ Next steps could include building a **predictive machine learning model** to for
 
 ---
 
-## 📂 Repository Structure
+
+## 👩‍💻 Author
+**Shreya Bhat**  
+📍 Bangalore, India  
+📧 [shreyabhat545@gmail.com](mailto:shreyabhat545@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shreya-bhat-3169b1248/)
